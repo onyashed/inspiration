@@ -24,6 +24,13 @@
             "Database\\Seeders\\": "database/seeders/",
             "Marwa\\Inspire\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Marwa\\Inspire\\InspireServiceProvider"
+            ]
+        }
     }
 
 }
