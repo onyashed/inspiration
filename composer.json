@@ -22,7 +22,7 @@
        
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Marwa\\Inspire\\": "packages/marwa/inspire/src/"
+            "Marwa\\Inspire\\": "src/"
         }
     }
 
